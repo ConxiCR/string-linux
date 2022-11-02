@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
-#MD012018_ConxiCozar_FSE_12 c. Script que inicialitzi la variable moment=$(date +%F_%T) . Imprimir-la per pantalla només si l'hora actual és parell.
+#MD012018_CCR_FSE_12 c. Script que inicialitzi la variable moment=$(date +%F_%T) . Imprimir-la per pantalla només si l'hora actual és parell.
 #primer ensenyem la variable que ens tornarà data i hora actual
 
 moment=$( date +%F_%T )
