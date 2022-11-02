@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#MD012018_ConxiCozar_FSE_12 b. Script per conèixer, d'una ruta facilitada per paràmetre, la xifra corresponent a la suma de directoris i fitxers.
+#MD012018_CCR_FSE_12 b. Script per conèixer, d'una ruta facilitada per paràmetre, la xifra corresponent a la suma de directoris i fitxers.
 
 
 echo "Fitxers/directoris=`ls -la | wc -l`"
