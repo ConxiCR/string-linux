@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 
-#MD012018_ConxiCozar_FSE_12 c.Implementar un Shell script (limit.sh) que controli el número d'elements que conté una carpeta concreta. Quan es sobrepassi un límit definit per teclat a l'iniciar-se, ens ha de donat un missatge d'alerta per pantalla.
+#MD012018_ConxiCozar_FSE_12 d.Implementar un Shell script (limit.sh) que controli el número d'elements que conté una carpeta concreta. Quan es sobrepassi un límit definit per teclat a l'iniciar-se, ens ha de donat un missatge d'alerta per pantalla.
 
 
 moment=$( date +%F_%T )
